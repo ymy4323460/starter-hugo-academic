@@ -8,6 +8,7 @@ authors:
   - Qingyang Li
   - Zhiwei Qin
   - Jieping Ye.
+publication: WWW 2020
 draft: false
 featured: false
 image:
