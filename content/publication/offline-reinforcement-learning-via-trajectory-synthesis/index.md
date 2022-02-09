@@ -11,13 +11,13 @@ authors:
   - Mengyue Yang
   - Yiping Meng
   - Jieping Ye.
-publication: NeurIPS2019 workshop on deep reinforcement  learning
-publication_short: https://sites.google.com/view/deep-rl-workshop-nips-2019/home
+publication: NeurIPS 2019 workshop on deep reinforcement  learning
+publication_short: ""
 draft: false
 featured: false
 image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2022-02-09T14:42:47.035Z
+date: 2022-02-09T15:28:58.901Z
 ---
