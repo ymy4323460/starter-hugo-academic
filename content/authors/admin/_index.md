@@ -1,8 +1,8 @@
 ---
 title: Mengyue Yang
 role: Ph.D. student
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: photo_.jpeg
+bio: ""
 interests: []
 social:
   - display:
