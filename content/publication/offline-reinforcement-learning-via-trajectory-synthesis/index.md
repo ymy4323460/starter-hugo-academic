@@ -1,5 +1,5 @@
 ---
-title: Offline  Reinforcement Learning via Trajectory Synthesis.
+title: Offline  Reinforcement Learning via Trajectory Synthesis
 subtitle: ""
 publication_types:
   - "1"
@@ -19,5 +19,5 @@ image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2022-02-09T15:28:58.901Z
+date: 2019-07-06T14:32:20.308Z
 ---
