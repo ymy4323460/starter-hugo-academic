@@ -20,4 +20,4 @@ highlight_name: true
 ---
 She is a second-year Ph.D. student in the Department of Computer Science at University College London supervised by Prof. Jun Wang and Prof. Ingemar Cox. Her research aims to build explainable algorithm to understand human intellectual, especially for the causality behind static observations and dynamic environment. With this motivation, she is now focusing on Causal Representation Learning and Causal Reinforcement Learning.
 
-Feel free to reach me at mengyue.yang.20 [at] ucl.ac.uk
+Email: mengyue.yang.20 [at] ucl.ac.uk
